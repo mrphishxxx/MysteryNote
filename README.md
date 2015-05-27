@@ -8,6 +8,8 @@ Note that Apple does not allow such apps on the Apple Store, so this is merely f
 
 This app works for both iPhone and iPad devices.
 
+![](https://github.com/jgafni/MysteryNote/blob/master/iOS%20Simulator%20Screen%20Shot%20May%2026,%202015,%2010.52.38%20PM.png?raw=true)
+
 ## Details
 
 The app allows you to enter in the recipient's phone number, a text message, and your phone number to allow for the recipient to text message you back.
