@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "AnonTextMachine": {
+            "applicationId": "h2Qs52HrpnNxULdQlMmms75NHVJnQGjymqRLtekF", 
+            "masterKey": "lpJNx9TLQt4sLhsDJIP4Ab3BmGNstU1QYkwo5JJ7"
+        }, 
+        "_default": {
+            "link": "AnonTextMachine"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
